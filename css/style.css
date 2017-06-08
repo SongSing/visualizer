@@ -1,0 +1,25 @@
+#file {
+  display:block;
+}
+
+#audio {
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+}
+
+#canvas {
+  background:black;
+  display:block;
+  margin-top:8px;
+  position:absolute;
+  left:00px;
+  top:0;
+  bottom:0;
+  width:100%;
+  margin:0;
+  padding:0;
+  height:100%;
+  z-index:-100;
+}
